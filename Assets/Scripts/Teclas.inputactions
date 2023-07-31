@@ -1,0 +1,34 @@
+{
+    "name": "Teclas",
+    "maps": [
+        {
+            "name": "Tela",
+            "id": "9ead5936-70f8-4fd9-ba28-2516c3740ebb",
+            "actions": [
+                {
+                    "name": "Apertar",
+                    "type": "Button",
+                    "id": "9f61b2f0-ac01-4e5a-9c9c-1640c11e458a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "04620116-b7d7-48f8-9e30-120e39f5ec67",
+                    "path": "<Keyboard>/anyKey",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Apertar",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
